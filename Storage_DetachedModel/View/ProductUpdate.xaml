@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Storage_DetachedModel.View"
         mc:Ignorable="d"
-        Title="Изменение товара" Height="469" Width="656">
+        Title="Изменение товара" Height="469" Width="656" Icon="/View/icons8-децентрализованная-сеть-50.png">
     <Grid Margin="10">
         <Grid.Resources>
             <Style TargetType="TextBlock">

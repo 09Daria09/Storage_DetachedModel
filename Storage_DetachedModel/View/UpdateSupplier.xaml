@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Storage_DetachedModel.View"
         mc:Ignorable="d"
-        Title="Изменение поставщика" Height="341" Width="800">
+        Title="Изменение поставщика" Height="341" Width="800" Icon="/View/icons8-децентрализованная-сеть-50.png">
     <Window.Resources>
         <Style TargetType="TextBlock">
             <Setter Property="Foreground" Value="#9A70B8"/>

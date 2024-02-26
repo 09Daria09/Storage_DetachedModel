@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Storage_DetachedModel"
         mc:Ignorable="d"
-        Title="Storage" Height="450" Width="800" MinHeight="250" MinWidth="400"  WindowState="Maximized">
+        Title="Storage" Height="450" Width="800" MinHeight="250" MinWidth="400"  WindowState="Maximized" Icon="/View/icons8-децентрализованная-сеть-50.png">
     <Window.Resources>
         <Style TargetType="Menu">
             <Setter Property="Background" Value="#9A70B8"/>

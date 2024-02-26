@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Storage_DetachedModel.View"
         mc:Ignorable="d"
-        Title="Изменение типа товара" Height="240" Width="410" MinHeight="150" MinWidth="400">
+        Title="Изменение типа товара" Height="240" Width="410" MinHeight="150" MinWidth="400" Icon="/View/icons8-децентрализованная-сеть-50.png">
     <Window.Resources>
         <Style TargetType="TextBlock">
             <Setter Property="Foreground" Value="#9A70B8"/>

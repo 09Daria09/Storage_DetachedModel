@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Storage_DetachedModel"
         mc:Ignorable="d"
         Title="Database Connection" Height="300" Width="500" 
-    Background="Thistle" >
+    Background="Thistle" Icon="/View/icons8-децентрализованная-сеть-50.png" >
     <Window.Resources>
         <Style x:Key="AccentButtonStyle" TargetType="Button">
             <Setter Property="Background" Value="#cc66ff"/>

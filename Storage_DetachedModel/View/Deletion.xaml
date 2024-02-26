@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Storage_DetachedModel.View"
         mc:Ignorable="d"
-        Title="Удаление" Height="189" Width="712">
+        Title="Удаление" Height="189" Width="712" Icon="/View/icons8-децентрализованная-сеть-50.png">
     <Window.Resources>
         <Style TargetType="TextBox">
             <Setter Property="Margin" Value="5"/>
